@@ -4,7 +4,7 @@ curlhttps://s3-us-west-1.amazonaws.com/splicedesktop/install/stable/InstallSplic
 
 wine ~/Downloads/Splice.exe
 
-echo "Killing LANDR for now as it'll interfere with the .desktop shortcut."
+echo "Killing Splice for now as it'll interfere with the .desktop shortcut."
 pkill -f Splice.exe
 
 curl https://gitlab.com/winemusiccreation/Splice/-/raw/main/Splice.desktop -o ~/Desktop/LANDR.desktop
