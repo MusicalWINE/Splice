@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Splice
+Exec=wineconsole /home/$USER/.wine/drive_c/users/$USER/AppData/Local/splice/Splice.exe
+Type=Application
+Icon=1846_Splice.0
+StartupWMClass=splice.exe
